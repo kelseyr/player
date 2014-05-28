@@ -1,0 +1,9 @@
+{
+    "data":
+            {
+            "id":2,
+            "name": "Oscar Peterson",
+            "game": "Spin the Bottle",
+            "rating": {"id":1001,"name":"Five Stars", "type":"FIVE"}
+            }
+}
