@@ -1,0 +1,9 @@
+{
+    "data":
+            {
+            "id":3,
+            "name": "Dave Brubeck",
+            "game": "Texas Hold'em Poker",
+            "rating": {"id":1002,"name":"Two Stars", "type":"TWO"}
+            }
+}
