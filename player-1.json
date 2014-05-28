@@ -1,6 +1,9 @@
 {
-  "id":1,
-  "name": "Bill Evans",
-  "game": "Tic-Tac-Toe",
-  "rating": {"id":1004,"name":"Four Stars", "type":"FOUR"}
+    "data":
+            {
+            "id":1,
+            "name": "Bill Evans",
+            "game": "Tic-Tac-Toe",
+            "rating": {"id":1000,"name":"Four Stars", "type":"FOUR"}
+            }
 }
