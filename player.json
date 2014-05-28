@@ -1,0 +1,22 @@
+{
+    "data":[
+            {
+            "id":1,
+            "name": "Bill Evans",
+            "game": "Tic-Tac-Toe",
+            "rating": {"id":1000,"name":"Four Stars", "type":"FOUR"}
+            },
+            {
+            "id":2,
+            "name": "Oscar Peterson",
+            "game": "Spin the Bottle",
+            "rating": {"id":1001,"name":"Five Stars", "type":"FIVE"}
+            },
+            {
+            "id":3,
+            "name": "Dave Brubeck",
+            "game": "Texas Hold'em Poker",
+            "rating": {"id":1002,"name":"Two Stars", "type":"TWO"}
+            }
+            ]
+}
